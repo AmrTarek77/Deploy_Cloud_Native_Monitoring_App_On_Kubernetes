@@ -5,20 +5,20 @@
 <div align="center">
     - If you have successfully created aws access cli then check aws users list from below command:
   <img src="./Pics/aws_list_users.png" alt="Logo" width="100%" height="100%">
-
-  <br>
+</div>
+<div>
     - Python3:
     <img src="./Pics/python_version.png" alt="Logo" width="100" height="32">
-  
-  <br>
-    - Docker:
-    <img src="./Pics/docker_version.png" alt="Logo" width="100" height="32">
-
-  <br>
-    - kubectl:
-    <img src="./Pics/kubectl_version.png" alt="Logo" width="100" height="32">
-  </a>
 </div>
+   
+  <div>
+     - Docker:
+    <img src="./Pics/docker_version.png" alt="Logo" width="100" height="32">
+  </div>
+  <div>
+      - kubectl:
+    <img src="./Pics/kubectl_version.png" alt="Logo" width="100" height="32">
+  </div>
 
 ## **Part 2: Deploying the Flask application locally**
 
