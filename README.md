@@ -8,16 +8,16 @@
 </div>
 <div>
     - Python3:
-    <img src="./Pics/python_version.png" alt="Logo" width="100" height="32">
+    <img src="./Pics/python_version.png" alt="Logo" width="100%" height="100%">
 </div>
    
   <div>
      - Docker:
-    <img src="./Pics/docker_version.png" alt="Logo" width="100" height="32">
+    <img src="./Pics/docker_version.png" alt="Logo" width="100%" height="100%">
   </div>
   <div>
       - kubectl:
-    <img src="./Pics/kubectl_version.png" alt="Logo" width="100" height="32">
+    <img src="./Pics/kubectl_version.png" alt="Logo" width="100%" height="100%">
   </div>
 
 ## **Part 2: Deploying the Flask application locally**
